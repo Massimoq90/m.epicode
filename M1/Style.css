@@ -55,6 +55,7 @@ figure {
 }
 .image-fig {
    align-items: center;
+   text-align: center;
    margin-top: 10px;
    color: #9e9e9e;
 }
@@ -67,11 +68,10 @@ margin-bottom: 30px;
 }
 
 .link-image h4 {
-    color: brown;
+    color: rgb(252, 120, 120);
     margin: 0;
     padding: 0;
 }
-
 
  a {
     color: #127878
