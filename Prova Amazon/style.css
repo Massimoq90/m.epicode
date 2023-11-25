@@ -1,0 +1,152 @@
+:root {
+    --logo-bg: #222F3E;
+    --navbar-bg: #354758;
+    --header-bg: #F56600;
+    --link-color: #017185;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: var(--logo-bg)
+}
+
+.logo {
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.logo-img {
+    width: 150px;
+}
+
+.botton-navbar {
+    background-color: var(--navbar-bg);
+    color: white;
+}
+
+.navbar-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin: 0 40px 0 40px;
+    padding: 7px;
+}
+
+.spacing {
+    padding: 20px;
+}
+
+.header {
+    margin-top: 10px;
+}
+
+.header-title {
+    background-color: var(--header-bg);
+    color: white;
+    padding: 10px;
+}
+
+.header-title h3 {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    text-align: center;
+}
+
+.header-img {
+    width: 100%;
+    margin-top: 25px;
+
+}
+
+.header-imgContainer {
+    background-image: url(./asset/bg-image.png);
+    background-repeat: repeat;
+    background-size: contain;
+    margin-top: 20px;
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header-text {
+    color: white;
+
+}
+
+.header-text h2,
+.header-text h5 {
+    margin: -5px;
+    padding: 0;
+    text-align: center;
+}
+
+.header-text h2 {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.header-text h5 {
+    font-size: 20px;
+}
+
+.first-section {}
+
+.text-product {
+    padding: 10px;
+}
+
+.product-container {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: rgb(255, 246, 234);
+}
+
+.product-image {
+    width: 340px;
+    border-radius: 15px;
+    min-height: 340px;
+    object-fit: cover;
+}
+
+.endSectionImg {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.end-section {
+    text-align: center;
+}
+
+.first-footer {
+    text-align: center;
+    background-color: var(--navbar-bg);
+    color: white;
+    text-decoration: underline;
+    padding: 10px;
+}
+.end-footer{
+    background-color: var(--logo-bg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    
+} 
+.logo-footer{
+    width: 150px;
+    margin: -5px;
+}
