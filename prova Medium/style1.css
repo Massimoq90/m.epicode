@@ -1,0 +1,44 @@
+.info-button-two {
+    display: flex;
+    position: absolute;
+    left: 290px;
+    bottom: 130px;
+    border-bottom: 1px groove black;
+    border-radius: 18px;
+    padding: 8px;
+    background-color: rgb(231, 231, 231);
+}
+
+.footer {
+    list-style: none;
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    left: 860px;
+    gap: 30px;
+    color: rgb(152, 152, 152);
+}
+
+.end-h3 {
+    position: absolute;
+    display: flex;
+    right: 236px;
+    top: 840px;
+}
+
+.end-p {
+    display: flex;
+    position: absolute;
+    top: 870px;
+    right: 0;
+    left: 140px
+}
+.end-h4{
+    position: absolute;
+    display: flex;
+    top: 900px;
+    left:140px ;
+    color: grey;
+}
