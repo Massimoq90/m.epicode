@@ -1,0 +1,29 @@
+
+
+.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+   
+}
+
+
+.card-img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    opacity: 0;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+.link-card{
+    background-color:white;
+}
+.card-price{
+    color: blue;
+}
