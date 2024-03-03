@@ -1,0 +1,358 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-box {
+    width: 100px;
+    height: 50px;
+}
+
+.icons-box {
+    display: flex;
+    position: relative;
+    top: 5px;
+    gap: 20px;
+
+}
+
+.icon-person {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: -10px;
+    color: #878787;
+}
+
+
+.test-home {
+    font-weight: bolder;
+    padding-left: 140px;
+    padding-top: 50px;
+}
+
+.inverness-box {
+    padding-left: 140px;
+    font-weight: lighter;
+}
+
+.share-save-box {
+    right: 15px
+}
+
+.main-container {
+    padding-left: 150px;
+}
+
+.section-box {
+    padding-left: 140px;
+    font-weight: bolder;
+}
+
+.room-box {
+    padding-left: 140px;
+    color: #141414;
+    font-size: small;
+    margin-bottom: 0;
+}
+
+.show-box {
+    padding-left: 140px;
+    color: #737373;
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.home-box {
+    padding-left: 140px;
+    width: 30px;
+    height: 30px;
+}
+
+.house-box {
+    margin-top: 35px;
+    margin-inline-start: 25px;
+    font-weight: bold;
+}
+
+.premise-box {
+    margin-top: 70px;
+    margin-inline-start: -47px;
+    color: #737373;
+    font-size: small;
+}
+
+.sparles-box {
+    padding-left: 140px;
+    width: 30px;
+    height: 30px;
+}
+
+.advanced-box {
+    margin-top: -20px;
+    margin-inline-start: 25px;
+    font-weight: bold;
+}
+
+.host-box {
+    margin-top: 20px;
+    margin-inline-start: -220px;
+    color: #737373;
+    font-size: small;
+}
+
+.location-box {
+    padding-left: 140px;
+    width: 30px;
+    height: 30px;
+}
+
+.inverness-container {
+    padding-left: 30px;
+    margin-top: -20px;
+    font-weight: bold;
+}
+
+.kilomore-box {
+    padding-top: 20px;
+    margin-inline-start: -73px;
+    color: #737373;
+    font-size: small;
+}
+
+.calendar-box {
+    padding-left: 140px;
+    width: 30px;
+    height: 30px;
+}
+
+.fees-box {
+    font-weight: bold;
+    padding-left: 30px;
+    margin-top: -20px;
+}
+
+.trave-box {
+    padding-top: 20px;
+    margin-inline-start: -220px;
+    color: #737373;
+    font-size: small;
+}
+
+.book-box {
+    padding-left: 140px;
+    width: 30px;
+    height: 30px;
+}
+
+.rules-box {
+    font-weight: bold;
+    padding-left: 30px;
+    margin-top: -20px;
+}
+
+.smoke-box {
+    padding-top: 20px;
+    margin-inline-start: -150px;
+    color: #737373;
+    font-size: small;
+}
+
+.addData-box {
+    width: 300px;
+    height: 180px;
+    border-bottom: 1px solid grey;
+    border-radius: 20px;
+    margin-top: 50px;
+    position: relative;
+    background-color: beige;
+}
+
+.reviews-box {
+    font-size: small;
+    margin-left: 105px;
+}
+
+.name-box {
+    font-size: small;
+}
+
+.name-input {
+    font-size: small;
+    padding-right: 350px;
+
+}
+
+.input-box {
+    padding-left: 153px;
+    gap: 490px;
+}
+
+.input-select {
+    padding-left: 50px;
+}
+
+.input-container {
+    padding-left: 153px;
+}
+
+.rewiew-box {
+    padding-left: 153px;
+}
+
+.rewiew-name {
+    font-size: small;
+}
+
+.rewiew-input {
+    padding-right: 510px;
+    padding-bottom: 80px;
+    font-size: small;
+}
+
+.avator-box {
+    padding-left: 170px;
+}
+
+.avator-img {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.first-rewiew-name {
+    list-style-type: none;
+}
+
+.one-name-ul {
+    font-weight: bold;
+}
+
+.two-name-ul {
+    font-weight: bold;
+}
+
+.first-rewiew {
+    padding-left: 170px;
+}
+
+.second-rewiew {
+    padding-left: 850px
+}
+
+.input-data-one {
+    position: absolute;
+    top: 730px;
+    width: 140px;
+    left: 890px;
+    border-top-left-radius: 10px;
+
+}
+
+.input-data-two {
+    position: absolute;
+    top: 730px;
+    width: 140px;
+    left: 1030px;
+    border-top-right-radius: 10px;
+}
+
+.button-input-data {
+    position: absolute;
+    top: 760px;
+    width: 280px;
+    left: 890px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.button-booking {
+    position: absolute;
+    top: 800px;
+    width: 280px;
+    left: 890px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: small;
+    box-shadow: none;
+}
+
+.test-home {
+    -webkit-animation: tracking-in-contract-bck-bottom 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: tracking-in-contract-bck-bottom 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+
+@-webkit-keyframes test-home {
+    0% {
+        letter-spacing: 1em;
+        -webkit-transform: translateZ(400px) translateY(300px);
+        transform: translateZ(400px) translateY(300px);
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0.6;
+    }
+
+    100% {
+        -webkit-transform: translateZ(0) translateY(0);
+        transform: translateZ(0) translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes tracking-in-contract-bck-bottom {
+    0% {
+        letter-spacing: 1em;
+        -webkit-transform: translateZ(400px) translateY(300px);
+        transform: translateZ(400px) translateY(300px);
+        opacity: 0;
+    }
+
+    40% {
+        opacity: 0.6;
+    }
+
+    100% {
+        -webkit-transform: translateZ(0) translateY(0);
+        transform: translateZ(0) translateY(0);
+        opacity: 1;
+    }
+}
+
+.logo-box {
+	-webkit-animation: pulsate-fwd 0.5s ease-in-out infinite both;
+	        animation: pulsate-fwd 0.5s ease-in-out infinite both;
+}
+
+ @-webkit-keyframes pulsate-fwd {
+    0% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+    50% {
+      -webkit-transform: scale(1.1);
+              transform: scale(1.1);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  @keyframes pulsate-fwd {
+    0% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+    50% {
+      -webkit-transform: scale(1.1);
+              transform: scale(1.1);
+    }
+    100% {
+      -webkit-transform: scale(1);
+              transform: scale(1);
+    }
+  }
+  
