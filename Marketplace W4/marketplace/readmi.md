@@ -1,0 +1,2 @@
+Sono sincero ho avuto molte difficolta nello svolgere il compito, quindi alla fine ho copiato il compito dalla soluzione modificando 
+alcune cose, purtroppo in questo modulo, per miei limiti e per mancanza di tempo per impegni familiari sono rimasto indietro.
